@@ -4,6 +4,7 @@ Repository to show the integration between Apache Spark Streaming and Apache Kaf
 Code is written in scala and it require sbt installation.
 
 Project can be be tested in two ways:
+
 1) Eclipse IDE - Run below sbt command to compile project and make it eclipse compatible
 	--> sbt package
 	--> sbt eclipse
